@@ -1,10 +1,6 @@
 ![icon_logo](https://i.ibb.co/RpXT993/icon-logo.png)
 
-
-
 Application de réservation de vols d'avions faite avec le Framework Django
-
-
 
 <img alt="flight" src="https://i.ibb.co/8dKZ6hH/scree.png">
 
